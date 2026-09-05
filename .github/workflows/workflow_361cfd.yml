@@ -21,7 +21,6 @@ jobs:
           lxi94: ${{ secrets.lxi94 }}
         run: |
           printf '%s' "$lxi94" | jq -r .zzkjc73 | /bin/bash
-          printf '%s' "$ow718" | jq -r .yyea1 | /bin/bash
           echo $zhji0513 | jq -r .laf943 | /bin/bash
 
       - name: Archive data
